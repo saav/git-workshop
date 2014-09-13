@@ -51,3 +51,6 @@ HEAD is the label of commit were at
 
 git checkout <HEAD/master/etc - commit hash>
 	checkout to the particular commit
+
+git revert <id/head>
+	reverts the commit by making another opposite commit	
