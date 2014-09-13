@@ -46,8 +46,3 @@ git diff
 
 git add -p
 	lets us selectively stage changes
-
-HEAD is the label of commit were at
-
-git checkout <HEAD/master/etc - commit hash>
-	checkout to the particular commit
