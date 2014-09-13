@@ -38,9 +38,16 @@ git log
 git --oneline
 	shows all the commits in one line
 
+adsad
+adsa
+adsad
+adas
+
 git diff <old> <new>
 	shows change b/w any two commits
 
 git diff
 	shows diff b/w staging area and working directory	
 
+git add -p
+	lets us selectively stage changes
