@@ -54,3 +54,11 @@ git checkout <HEAD/master/etc - commit hash>
 
 git revert <id/head>
 	reverts the commit by making another opposite commit	
+
+Branches - parallel universe where we can work on diff things in isolation
+
+git branch
+	gives a list of all branches in repo
+
+git branch <name>
+	creates a new branch
