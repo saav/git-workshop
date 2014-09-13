@@ -66,3 +66,6 @@ git branch <name>
 to merge changes made on another brach on current one, we use merge<branch name>
 git merge <branch name>
 	merging branches
+
+git remote add origin [url]
+	add a git remote of name origin
