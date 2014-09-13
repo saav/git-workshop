@@ -20,6 +20,8 @@ git init
 
 git status
 	tells status of working directory
+	compares the diff b/w workng dir and stg area
+	also diff b/w stg ara and repo
 
 .gitignore
 	tells git that it should completely ignore a certain file
@@ -35,3 +37,4 @@ git log
 
 git --oneline
 	shows all the commits in one line
+
