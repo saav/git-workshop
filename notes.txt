@@ -69,3 +69,9 @@ git merge <branch name>
 
 git remote add origin [url]
 	add a git remote of name origin
+
+git push [remote] [branch]
+	pushes commit on[branch] to [remote] server
+
+git pull [remote] [branch]
+	pulls commit on[remote] to [branch]
