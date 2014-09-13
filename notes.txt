@@ -23,3 +23,6 @@ git status
 
 .gitignore
 	tells git that it should completely ignore a certain file
+
+git add [file]
+	tells dit to start tracking of files
