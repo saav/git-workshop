@@ -62,3 +62,7 @@ git branch
 
 git branch <name>
 	creates a new branch
+ 
+to merge changes made on another brach on current one, we use merge<branch name>
+git merge <branch name>
+	merging branches
