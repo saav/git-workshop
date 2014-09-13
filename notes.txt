@@ -26,3 +26,9 @@ git status
 
 git add [file]
 	tells dit to start tracking of files
+
+git commit
+	COMMIT CHANGES to repo
+
+git log
+	shows us all the conmits we made
